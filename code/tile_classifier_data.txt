@@ -1,0 +1,38 @@
+Train
+1. GBM - 299921 - TCGA-02-0001-01Z-00-DX3.2836ce55-491f-4d86-99b1-668946927af8.svs
+2. LGG - 164272 - tcga-cs-4944-01z-00-dx1.b6231754-68e0-4552-9660-7e9fbc0052ef.svs
+
+Test - 92839
+1.GBM - 59985 - tcga-02-0004-01z-00-dx1.d8189fdc-c669-48d5-bc9e-8ddf104caff6.svs
+2.LGG - 32854 - TCGA-CS-4938-01Z-00-DX1.6660D726-8524-424A-B6E8-D97FFD9BCE01.svs
+
+-----------------------------
+Found 371354 images belonging to 2 classes.
+Found 92838 images belonging to 2 classes.
+
+--------------------------------------------------------------------------------------------------
+100k data
+
+Train
+1. GBM - 100000 - TCGA-02-0006-01Z-00-DX1.a37df719-8b93-4245-ae49-67eb1114253a.svs
+2. LGG - 100000 - TCGA-CS-4941-01Z-00-DX1.86D516B5-C648-4249-8C6A-7F9A6A56CB4F.svs
+
+Test -  
+1.GBM - 20000- tcga-02-0009-01z-00-dx2.f5c99ad0-30b1-4f1b-afb0-0a355068eacc.svs
+2.LGG - 20000- TCGA-CS-4942-01Z-00-DX1.67f7928e-e1d9-473b-a317-7c6b4ba7433f.svs 
+
+Found 160169 images belonging to 2 classes.
+Found 40042 images belonging to 2 classes
+---------------------------------------
+50k data
+
+Train
+1. GBM - 50000 - TCGA-02-0010-01Z-00-DX2.5334831b-8e1f-4b61-bbf6-0f6e950a1b2f.svs
+2. LGG - 50000 - TCGA-CS-4938-01Z-00-DX1.c83c77a6-64cf-439a-afe8-22749310da6c.svs
+
+Test -  
+1.GBM - 10000-  TCGA-02-0010-01Z-00-DX1.b53f8c4e-6e10-4684-b7fc-fd9e0b9d6c01.svs
+2.LGG - 10000-  TCGA-CS-4942-01Z-00-DX1.701823F6-6856-4F09-8A9B-ED078940C01F.svs
+
+Found 80000 images belonging to 2 classes.
+Found 20000 images belonging to 2 classes.
